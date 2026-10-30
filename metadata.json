@@ -1,0 +1,7 @@
+{
+  "name": "MARGIN",
+  "description": "Find the leak. Fix the business. A premium, simple-English business intelligence and profit simulator for small business owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
